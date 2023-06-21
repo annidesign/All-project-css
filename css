@@ -1,0 +1,1493 @@
+/********  custom css *********/
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+/*** serv inner new css**/
+section.contact-section.section.contact.page-content.myformhedcss.allpageformcss {
+    padding-top: 50px;
+    padding-bottom: 80px;
+    border-top: 1px solid #000 !important;
+    border-bottom: 1px solid #000;
+    margin: 50px auto 0;
+}
+
+body.dark section.contact-section.section.contact.page-content.myformhedcss.allpageformcss {
+   
+    border-top: 1px solid #fff !important;
+    border-bottom: 1px solid #fff;
+   
+}
+.allpageformcss h2 {
+    font-size: 64px !important;
+}
+.btnsaleforce a.buttonlinkcss {
+    color: #fff;
+}
+.page-id-853 .our-serv-imagetitleblock:nth-child(1) .ourservmain {
+    grid-template-columns: 2fr 0fr;
+}
+.page-id-784 a.buttonlinkcss:nth-child(1),
+.page-id-784 a.buttonlinkcss:nth-child(3), .page-id-863 a.buttonlinkcss:nth-child(3), .page-id-853 a.buttonlinkcss:nth-child(5), .page-id-853 a.buttonlinkcss:nth-child(7), .page-id-876 a.buttonlinkcss:nth-child(5), .page-id-876 a.buttonlinkcss:nth-child(10), .page-id-829 a.buttonlinkcss:nth-child(3){
+    background: #A9FF3C;
+    color: #000 !important;
+}
+.page-id-784 a.buttonlinkcss:nth-child(2),
+.page-id-784 a.buttonlinkcss:nth-child(6), .page-id-863 a.buttonlinkcss:nth-child(2), .page-id-853 a.buttonlinkcss:nth-child(3), .page-id-876 a.buttonlinkcss:nth-child(3), .page-id-876 a.buttonlinkcss:nth-child(7), .page-id-876 a.buttonlinkcss:nth-child(9), .page-id-829 a.buttonlinkcss:nth-child(2)  {
+    background: #4895EF;
+    color: #fff;
+}
+.page-id-784 a.buttonlinkcss:nth-child(4), .page-id-863 a.buttonlinkcss:nth-child(1), .page-id-853 a.buttonlinkcss:nth-child(2), .page-id-853 a.buttonlinkcss:nth-child(4), .page-id-876 a.buttonlinkcss:nth-child(2), .page-id-876 a.buttonlinkcss:nth-child(4), .page-id-876 a.buttonlinkcss:nth-child(8), .page-id-829 a.buttonlinkcss:nth-child(1){
+    background: #BD57E4;
+    color: #fff;
+}
+.page-id-784 a.buttonlinkcss:nth-child(5), .page-id-863 a.buttonlinkcss:nth-child(4), .page-id-863 a.buttonlinkcss:nth-child(5), .page-id-853 a.buttonlinkcss:nth-child(1), .page-id-853 a.buttonlinkcss:nth-child(6), .page-id-876 a.buttonlinkcss:nth-child(1), .page-id-876 a.buttonlinkcss:nth-child(6), .page-id-829 a.buttonlinkcss:nth-child(4), .page-id-829 a.buttonlinkcss:nth-child(5){
+    background: #FF612F;
+    color: #fff;
+}
+.page-id-784 .inner-services-text {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1.9fr;
+    gap: 40px;
+    margin-bottom: 60px;
+}
+.our-serv-imagetitleblock:nth-child(2n) {margin-top:120px; margin-bottom:-58px;}
+
+.page-id-859 .inner-services-text {
+    display: grid;
+	grid-template-columns: 1fr 1fr; }
+.page-id-859 .inner-services-text.inrsrvnewcss {
+    display: grid;
+    grid-template-columns: 1fr 1fr 0.2fr;
+    margin-bottom: 0;
+}
+.inner-content-blocks ol li {
+    list-style-type: decimal;
+    margin: 12px 24px;
+}
+
+.inner-content-blocks ul li {
+    list-style-type: disc;
+    margin: 12px 24px;
+}
+.page-id-853 .inner-services-text {
+    display: grid;
+	grid-template-columns: 1.7fr 4fr 1fr; }
+.page-id-853 .inner-services-text.inrsrvnewcss {
+    display: grid;
+    grid-template-columns: 1fr 1fr 0.1fr;
+    margin-bottom: 50px;
+}
+.page-id-876 .inner-services-text {
+    display: grid;
+	grid-template-columns: 1.3fr 3fr 0.8fr;}
+
+.page-id-863 .our-serv-imagetitleblock:nth-child(3) {
+    margin-top: -5rem;
+}
+
+@media (min-width:200px) and (max-width:760px)
+{
+	.page-id-863 .our-serv-imagetitleblock:nth-child(3) {
+    margin-top: 0rem;
+}
+	.page-id-784 .inner-services-text, .page-id-859 .inner-services-text, .page-id-859 .inner-services-text.inrsrvnewcss, .page-id-853 .inner-services-text, .page-id-853 .inner-services-text.inrsrvnewcss, .page-id-876 .inner-services-text   {
+    display: block;
+	}
+	.inner-content-blocks a.buttonlinkcss {font-size:12px;
+	padding: 8px 18px;}
+	
+}
+/*** End serv inner new css**/
+.our-serv-myhedcss.allhedcss h2:after {
+    content: url(http://brain-staging.brainstormtech.pro/wp-content/uploads/2023/06/Arrow-7.png);
+}
+.page-id-829 .inner-services-text {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    gap: 40px;
+    margin-bottom: 60px;
+}
+span.position-0 {
+    background: #A9FF3C;
+}
+.our-serv-myhedcss.allhedcss h2 {
+    border-bottom: 1px solid #000;
+    padding-bottom: 20px;
+}
+.inner-content-blocks h3 {font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 32px;
+line-height: 98.52%;
+letter-spacing: -0.05em;
+margin-bottom:15px;}
+.our-serv-myhedcss h2 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 100px;
+    line-height: 98.52%;
+    letter-spacing: -0.05em;
+    text-transform: capitalize;
+	padding-bottom:30px;
+}
+body.dark .our-serv-myhedcss.allhedcss h2 {
+	border-bottom: 1px solid #fff; }
+body.dark .saleinner-contentcss h4, body.dark .salef-serv-hedcss h2, body.dark .saleinner-contentcss p, body.dark section.contact-section.section.contact.page-content.myformhedcss h2, body.dark .myformhedcss p {color:#fff}
+section.our-services.services.saleforce h1 {
+    text-align: center;
+}
+section.our-services.services.saleforce {
+    background: url(http://brain-staging.brainstormtech.pro/wp-content/uploads/2023/06/Frame-90887.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    padding-bottom: 164px;
+}
+
+.mainservcss.saleforcecontcss .inner-content-blocks {
+    display: block;
+    width: 60%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.mainservcss.saleforcecontcss .field-submit {
+    margin: 0 auto;
+    text-align: center;
+}
+.saleforcecontcss span.position-0 {
+    background: #A9FF3C;
+	font-family: 'Mondwest';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 120%;
+text-align: center;
+letter-spacing: -0.01em;
+color: #12110C;
+transform: matrix(1, 0, 0, 1, 0, 0);
+}
+section.saleforcesection {
+    background: #000;
+    color: #fff;
+    padding: 60px 140px 40px;
+	border-bottom:1px solid #494949;
+}
+
+.saleforce-secblock-text h2 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 64px;
+    line-height: 98.52%;
+    letter-spacing: -0.05em;
+    color: #FFFFFF;
+}
+.saleforce-secblock-text h2 span{color:#41ADFF;}
+
+.saleforce-secblock-text {
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    column-gap: 70px;
+}
+section.saleforcesection p {width:90%;}
+.salef-content-blocks p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 140%;
+    letter-spacing: -0.02em;
+    color: #FFFFFF;
+}
+.btnsaleforce a {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 150%;
+    text-align: center;
+    letter-spacing: -0.03em;
+    color: #FFFFFF;
+}
+a.buttonlinkcss {
+    padding: 5px 23px;
+    border-radius: 50px;
+    margin: 8px 5px;
+    display: inline-block;
+}
+a.buttonlinkcss:nth-child(1), a.buttonlinkcss:nth-child(6), a.buttonlinkcss:nth-child(12) {
+    background: #4895EF;
+}
+
+a.buttonlinkcss:nth-child(2), a.buttonlinkcss:nth-child(9), a.buttonlinkcss:nth-child(11) {
+    background: #BD57E4;
+}
+a.buttonlinkcss:nth-child(3), a.buttonlinkcss:nth-child(5), a.buttonlinkcss:nth-child(10) {
+    background: #FF612F;
+}
+a.buttonlinkcss:nth-child(4), a.buttonlinkcss:nth-child(7), a.buttonlinkcss:nth-child(8) {
+    background: #A9FF3C;
+	color:#000;
+}
+.salef-content-blocks h2 {
+    margin-bottom: 20px;
+}
+.key_benefits_contentcss {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.keybfitcontent li {
+    list-style-type: disc;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 140%;
+    letter-spacing: -0.02em;
+    color: #FFFFFF;
+}
+.keybfitcontent ul {
+    margin: 0 0 0 23px;
+}
+
+section.contact-section.section.contact.page-content.myformhedcss h2 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 64px;
+    line-height: 98.52%;
+    letter-spacing: -0.05em;
+    color: #000000;
+    text-align: center;
+}
+section.contact-section.section.contact.page-content.myformhedcss h2:after {display:none;}
+
+.myformhedcss p {
+    text-align: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 140%;
+    text-align: center;
+    letter-spacing: -0.02em;
+    color: #000000;
+    width: 80%;
+    margin: -68px auto 36px;
+}
+.myformhedcss span.position-0 {
+    background: #A9FF3C;
+}
+
+section.saleforce-servicesmain {
+    padding: 70px 127px;
+}
+.salef-serv-hedcss h2 span{color:#4895EF}
+.salef-serv-hedcss h2 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 64px;
+    line-height: 98.52%;
+    letter-spacing: -0.05em;
+    color: #000000;
+    width: 73%;
+	margin-bottom:40px;
+}
+.saleforc-servi-contcss {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 50px;
+}
+.saleinner-contentcss h4 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 98.52%;
+    letter-spacing: -0.05em;
+    color: #000000;
+	margin-bottom:25px;
+	margin-top:20px;
+}
+
+.saleinner-contentcss p{
+	font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 140%;
+letter-spacing: -0.02em;
+color: #000000;
+}
+
+.btnsaleforceser {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 40px;
+}
+a.buttonlinksercss:nth-child(1) {
+    background: #4895EF;
+}
+a.buttonlinksercss:nth-child(2) {
+    background: #A9FF3C;
+	color:#000;
+}
+.btncolcss:nth-child(1) {
+    background: #BD57E4;
+}
+.btncolcss:nth-child(2) {
+    background: #FF612F;
+	color:#fff;
+}
+a.buttonlinkserseccss, a.buttonlinksercss {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 109.02%;
+    letter-spacing: -0.065em;
+    color: #FFFFFF !important;
+}
+.btnsaleforce.btnsenewcss {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 10px;
+    row-gap: 10px;
+}
+.btn2colcss a {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 120%;
+    letter-spacing: -0.02em;
+    
+}
+.btnbtnsaleforceser {
+    display: grid;
+    grid-template-columns: 1fr 1.3fr 0.7fr;
+    column-gap: 40px;
+}
+.btnbtncolcss:nth-child(1) {
+    background: #4895EF;
+}
+.btnbtncolcss:nth-child(2) {
+    background: #A9FF3C;
+	color:#000;
+}
+.btnbtncolcss:nth-child(2) a {
+		color:#000 !important;
+}
+
+.btnbtncolcss {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    padding: 11px 25px;
+    border-radius: 17px;
+}
+.btncolcss {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    padding: 11px 25px;
+    border-radius: 17px;
+}
+.imgpartnermaincss {
+    display: grid;
+    text-align: center;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    width: 30%;
+    margin: 96px auto -21px;
+}
+/** zig zag  */
+/*.page-id-784 .our-serv-imagetitleblock:nth-child(2) {
+    margin: 50px auto 40px;
+	padding:20px;
+}
+.page-id-784 .our-serv-imagetitleblock:nth-child(3) {
+    margin-top: -8rem;
+}
+.page-id-784 .our-serv-imagetitleblock:last-child {
+    margin-top: 50px;
+}*/
+/*.page-id-873 .our-serv-imagetitleblock:nth-child(1) {margin:13rem auto 0;}
+
+.page-id-873 .our-serv-imagetitleblock:nth-child(3) {margin:7rem auto 0;}*/
+
+
+.page-id-876 .our-serv-imagetitleblock:nth-child(2n+1) {
+    margin: 91px auto 0;
+}
+.page-id-873 .our-serv-myhedcss.allhedcss h2 {
+	padding-top:60px
+}
+.inner-services-text.inrsrvnewcss {
+    display: grid;
+    grid-template-columns: 1.1fr 1.1fr 1.1fr 0.7fr;
+	margin-bottom:0;
+}
+@media (min-width:200px) and (max-width:760px) {
+	.allpageformcss h2 {
+    font-size: 36px !important;
+}
+section.contact-section.section.contact.page-content.myformhedcss.allpageformcss p {
+    display: block !important;
+    text-align: left;
+    margin: 0 !important;
+    width: 100%;
+}
+	.inner-services-text.inrsrvnewcss {
+		display: block;}
+.page-id-873 .our-serv-myhedcss.allhedcss h2 {
+	padding-top:20px
+		width:95%;
+}
+	.inner-content-blocks h3 {font-size:24px; line-height:140%}
+	.page-id-829 .inner-services-text {display:block;}
+	.page-id-784 .our-serv-imagetitleblock:nth-child(2n), .page-id-784 .our-serv-imagetitleblock:last-child {
+    margin-right: -5px !important;
+    margin-top: 32px !important;
+		padding:0 !important;
+}
+	.page-id-784 .our-serv-imagetitleblock:nth-child(3) {
+    margin-top: 0;
+}
+	.page-id-873 .our-serv-imagetitleblock:nth-child(2n+1), .page-id-876 .our-serv-imagetitleblock:nth-child(2n+1)  {
+    margin-top: 0;
+		margin-left:0;
+}
+}
+
+/**** end zig zag **/
+/****** Top right image***/
+.section.contact-section{padding-top:70px;}
+.imgrightcss {
+    background: url(http://brain-staging.brainstormtech.pro/wp-content/uploads/2023/06/Vector.png);
+    width: 145px;
+    height: 270px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    right: 0;
+    background-position: right;
+    top: 8rem;
+}
+.imgrightseccss {
+    background: url(http://brain-staging.brainstormtech.pro/wp-content/uploads/2023/06/Scribble_117-1.png);
+    width: 100px;
+    height: 160px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    right: 0;
+    background-position: right;
+    top: 16rem;
+}
+
+.page-id-784 .imgrightseccss {
+    background: url(http://brain-staging.brainstormtech.pro/wp-content/uploads/2023/06/Check_Mark_012-1.png);
+    width: 225px;
+    height: 160px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    right: 0;
+    background-position: right;
+    top: 24rem;
+}
+
+.page-id-784 .imgrightcss {
+    background: url(http://brain-staging.brainstormtech.pro/wp-content/uploads/2023/06/Vector-1.png);
+    width: 200px;
+    height: 270px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    right: 0;
+    background-position: right;
+    top: 18rem;
+}
+
+.page-id-863 .imgrightseccss {
+    background: url(http://brain-staging.brainstormtech.pro/wp-content/uploads/2023/06/Arrow_044.png);
+    width: 225px;
+    height: 160px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    right: 0;
+    background-position: right;
+    top: 24rem;
+}
+
+.page-id-863 .imgrightcss {
+    background: url(http://brain-staging.brainstormtech.pro/wp-content/uploads/2023/06/Vector-3.png);
+    width: 200px;
+    height: 270px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    right: 0;
+    background-position: right;
+    top: 18rem;
+}
+
+.page-id-867 .imgrightseccss {
+    background: url(http://brain-staging.brainstormtech.pro/wp-content/uploads/2023/06/Arrow_045.png);
+    width: 225px;
+    height: 160px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    right: 0;
+    background-position: right;
+    top: 24rem;
+}
+
+.page-id-867 .imgrightcss {
+    background: url(http://brain-staging.brainstormtech.pro/wp-content/uploads/2023/06/Vector-5.png);
+    width: 200px;
+    height: 270px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    right: 0;
+    background-position: right;
+    top: 18rem;
+}
+
+.page-id-873 .imgrightcss {
+    background: url(http://brain-staging.brainstormtech.pro/wp-content/uploads/2023/06/Vector-8.png);
+    width: 150px;
+    height: 236px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    right: 0;
+    background-position: right;
+    top: 20.9rem;
+}
+
+.page-id-873 .imgrightseccss {
+    background: url(http://brain-staging.brainstormtech.pro/wp-content/uploads/2023/06/Star_003.png);
+    width: 133px;
+    height: 110px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    right: 0;
+    background-position: right;
+    top: 24rem;
+}
+
+.page-id-876 .imgrightcss {
+    background: url(http://brain-staging.brainstormtech.pro/wp-content/uploads/2023/06/✤.png);
+    width: 153px;
+    height: 284px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    right: 0;
+    background-position: right;
+    top: 20rem;
+}
+
+.page-id-876 .imgrightseccss {
+    background: url(http://brain-staging.brainstormtech.pro/wp-content/uploads/2023/06/Shape_111.png);
+    width: 150px;
+    height: 109px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    right: 2rem;
+    background-position: right;
+    top: 24rem;
+}
+
+.page-id-829 .imgrightcss {
+    background: url(http://brain-staging.brainstormtech.pro/wp-content/uploads/2023/06/Vector-10.png);
+    width: 180px;
+    height: 282px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    right: 0;
+    background-position: right;
+    top: 21rem;
+}
+
+.page-id-829 .imgrightseccss {
+    background: url(http://brain-staging.brainstormtech.pro/wp-content/uploads/2023/06/Crown_021.png);
+    width: 150px;
+    height: 195px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    right: 0;
+    background-position: right;
+    top: 18rem;
+}
+.page-id-853 .imgrightcss {
+    background: url(http://brain-staging.brainstormtech.pro/wp-content/uploads/2023/06/Vector-3-1.png);
+    width: 160px;
+    height: 230px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    right: 0;
+    background-position: right;
+    top: 19rem;
+}
+
+.page-id-853 .imgrightseccss {
+    background: url(http://brain-staging.brainstormtech.pro/wp-content/uploads/2023/06/Arrow_044-3.png);
+    width: 206px;
+    height: 195px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    right: 0;
+    background-position: right;
+    top: 17rem;
+}
+.page-id-859 .imgrightcss {
+    background: url(http://brain-staging.brainstormtech.pro/wp-content/uploads/2023/06/Vector-14.png);
+    width: 165px;
+    height: 211px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    right: 0;
+    background-position: right;
+    top: 15rem;
+}
+
+.page-id-859 .imgrightseccss {
+    background: url(http://brain-staging.brainstormtech.pro/wp-content/uploads/2023/06/photo_2023-03-20_15-12-13-4.png);
+    width: 176px;
+    height: 171px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    right: 37px;
+    background-position: right;
+    top: 16.1rem;
+}
+
+/****** End Top right image***/
+section.our-services.services h1 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 100px;
+    line-height: 98.52%;
+    letter-spacing: -0.05em;
+    color: #000000;
+	text-transform: capitalize;
+}
+section.our-services.services.innerblock hr {
+    border-top: 1px solid #000;
+    margin-top: 45px;
+}
+body.dark section.our-services.services.innerblock hr {
+    border-top: 1px solid #fff;
+    margin-top: 45px;
+}
+section.our-services.services .container-fluid {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.our-catenamecss {
+    /* display: list-item; */
+    background: url(https://brain-staging.brainstormtech.pro/wp-content/uploads/2023/06/plus.png);
+    padding-left: 3rem;
+    margin: 0 0;
+    vertical-align: bottom;
+    background-repeat: no-repeat;
+    background-position: left;
+}
+body.dark .our-catenamecss {
+    background: url(http://brain-staging.brainstormtech.pro/wp-content/uploads/2023/06/white-plus.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.our-service-btm-img {margin: -22px 70px 0;}
+			section.our-services.services h1 {
+    margin-bottom: 0;
+}
+.our-services-text {
+    width: 50%;
+	margin-top:30px;
+}	
+.our-services-text p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 140%;
+    letter-spacing: -0.02em;
+    color: #000000;
+}
+
+.our-services-categorycss {
+    margin-top: 56px;
+}
+.page-template-our-services, .page-template-our-services-inner-page {background-image:none !important;}
+
+.our-ser-cate-css {
+    display: flex;
+}
+.our-cat-iconcss {
+    vertical-align: middle;
+    margin: 10px 20px 10px 0;
+}
+.our-catenamecss h5 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 108%;
+    letter-spacing: -0.03em;
+    text-transform: capitalize;
+    color: #000000;
+}
+body.dark .our-ser-cate-css {
+    display: flex;
+    border-top: 1px solid #fff;
+    padding: 28px 0;
+} 
+.our-ser-cate-css {
+    display: flex;
+    border-top: 1px solid #000;
+    padding: 26px 0;
+}
+.our-ser-cate-css:last-child {
+    border-bottom: 1px solid #000;
+}
+section.our-services.services section.contact-section.section.contact.page-content {
+    border-top: none;
+}
+.our-services section.contact-section.section.contact.page-content h2 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 100px;
+    line-height: 98.52%;
+    letter-spacing: -0.05em;
+}
+
+/************ inner page css ***/
+.page-id-784 .our-serv-imagetitleblock:nth-child(5) .ourservmain {
+	
+	width:93%;
+	margin-left:auto;
+	margin-right:auto;
+}
+.mainservcss {
+    margin-top: 45px;
+}
+
+.mainservcss .inner-content-blocks {
+ display:grid;
+	grid-template-columns:1.6fr 2fr;
+}
+.our-pro-titlecss h4 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 140%;
+    letter-spacing: -0.03em;
+}
+.our-serv-imagetitleblock {
+    margin: 0 auto;
+    text-align: center;
+}
+body.dark .our-servtitle h5 {color:#fff;}
+.our-services-imgtitle {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 60px;
+    row-gap: 50px;
+    margin: 80px 40px;
+}
+.ourservmain {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 6px;
+}
+
+.our-servtitle {
+    text-align:left;
+}
+.our-servtitle h5 {
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 109.02%;
+letter-spacing: -0.065em;
+color: #12110C; }
+
+.our-servcont p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+    text-align: right;
+    letter-spacing: -0.03em;
+    color: #C9C9C9;
+}
+section.our-services.services.innerblock {
+    margin-top: 218px;
+}
+section.our-services.services.innerblock h1 {
+    margin-top: 20px;
+	width:86%;
+}
+/*.inner-content-blocks {
+    width: 28%;
+    float: left;
+    margin-right: 50px;
+}
+.inner-services-text {
+    display: flex;
+}*/
+.inner-services-text {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1.7fr;
+    gap: 40px;
+	margin-bottom:60px;
+}
+.inner-content-blocks p, .inner-content-blocks ul li, .inner-content-blocks ol li {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 140%;
+    letter-spacing: -0.02em;
+    color: #000000;
+}
+
+
+/******* end inner page **/
+
+@media (min-width:200px) and (max-width:760px)
+{
+	.our-serv-myhedcss h2 {font-size:46px; line-height:98.52%;}
+	.our-serv-myhedcss.allhedcss h2:after {
+    content: url(http://brain-staging.brainstormtech.pro/wp-content/uploads/2023/06/Line-296.png);
+}
+	/***mobile sale force page***/
+	
+	section.our-services.services.saleforce h1 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 46px;
+    line-height: 98.52%;
+    letter-spacing: -0.065em;
+    text-transform: capitalize;
+     text-align: left;
+}
+	.inner-content-blocks p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 160%;
+    letter-spacing: -0.01em;
+   
+}
+	.mainservcss.saleforcecontcss .inner-content-blocks {
+    display: block;
+    width: 100%;
+    text-align: left;
+    margin: 0 auto;
+}
+	.imgpartnermaincss {
+    display: grid;
+    text-align: center;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    width: 100%;
+    margin: 96px auto -21px;
+    column-gap: 13px;
+}
+.saleforce-secblock-text h2 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 98.52%;
+    letter-spacing: -0.05em;
+   	margin-bottom:30px;
+}	
+	section.saleforcesection {padding:60px 0px;}
+	
+	.saleforce-secblock-text {
+    display: block;
+}
+	section.saleforce-servicesmain {
+    padding: 70px 0px;
+}
+	.salef-serv-hedcss h2 {
+    width: 100%;
+    margin-bottom: 40px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 98.52%;
+    letter-spacing: -0.05em;
+    
+}
+	.saleforc-servi-contcss, .btnbtnsaleforceser, .btnsaleforceser, .key_benefits_contentcss, .btnsaleforce.btnsenewcss {display:block;}
+	.btnsaleforce.btnsenewcss a.buttonlinkcss
+	
+	.salef-content-blocks p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 160%;
+    letter-spacing: -0.01em;
+    }
+	a.buttonlinkserseccss, a.buttonlinksercss {font-size:32px;}
+	.btn2colcss a {font-size:16px !important;}
+	.btnbtncolcss:nth-child(2){padding-top:8px;}
+	.btnbtncolcss, .btncolcss {
+    height: 76px;
+    vertical-align: middle;
+    padding-top: 18px;
+		margin-bottom:12px;
+}
+	section.contact-section.section.contact.page-content.myformhedcss h2 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 98.52%;
+    letter-spacing: -0.05em;
+		text-align:left;
+}
+	.section.contact-section {
+    padding-top: 14px;
+}
+	.myformhedcss p, .myformhedcss .social-links.social-links-mob {display:none !important;}
+	section.our-services.services.saleforce {background-image:none; padding-bottom;0;}
+/**End*mobile sale force page***/
+	
+	
+	
+	.allservcss {display:none;}
+	.our-serv-imagetitleblock:nth-child(2n) {
+    margin-right: -5px;
+}
+.our-serv-imagetitleblock:nth-child(2n+1) {
+    margin-left: 0;
+}
+	.mainservcss .inner-content-blocks {
+    display: grid;
+    grid-template-columns: 1fr;
+}
+	.page-id-859 .imgrightcss {
+    background: url(http://brain-staging.brainstormtech.pro/wp-content/uploads/2023/06/Vector-15.png);
+    width: 115px;
+    height: 190px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    right: 0;
+    background-position: right;
+    top: 7rem;
+}
+.page-id-859 .imgrightseccss {
+    background: url(http://brain-staging.brainstormtech.pro/wp-content/uploads/2023/06/photo_2023-03-20_15-12-13-4-1.png);
+    width: 150px;
+    height: 150px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    right: 0;
+    background-position: right;
+    top: 5.5rem;
+}
+	.page-id-853 .imgrightcss {
+    background: url(http://brain-staging.brainstormtech.pro/wp-content/uploads/2023/06/Vector-13.png);
+    width: 130px;
+    height: 185px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    right: 0;
+    background-position: right;
+    top: 7rem;
+}
+.page-id-853 .imgrightseccss {
+    background: url(http://brain-staging.brainstormtech.pro/wp-content/uploads/2023/06/Arrow_044-2.png);
+    width: 150px;
+    height: 127px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    right: 0;
+    background-position: right;
+    top: 5.5rem;
+} 
+
+	.page-id-829 .imgrightcss {
+    background: url(http://brain-staging.brainstormtech.pro/wp-content/uploads/2023/06/Vector-11.png);
+    width: 130px;
+    height: 185px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    right: 0;
+    background-position: right;
+    top: 7rem;
+}
+.page-id-829 .imgrightseccss {
+    background: url(http://brain-staging.brainstormtech.pro/wp-content/uploads/2023/06/Crown_021-1.png);
+    width: 78px;
+    height: 102px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    right: 0;
+    background-position: right;
+    top: 5.5rem;
+}
+		.page-id-876 .imgrightcss {
+    background: url(http://brain-staging.brainstormtech.pro/wp-content/uploads/2023/06/✤-1.png);
+    width: 130px;
+    height: 185px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    right: 0;
+    background-position: right;
+    top: 6rem;
+}
+.page-id-876 .imgrightseccss {
+    background: url(http://brain-staging.brainstormtech.pro/wp-content/uploads/2023/06/Shape_111-1.png);
+    width: 78px;
+    height: 68px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    right: 37px;
+    background-position: right;
+    top: 8.5rem;
+}
+	.page-id-784 .imgrightcss {
+    background: url(http://brain-staging.brainstormtech.pro/wp-content/uploads/2023/06/Vector-2.png);
+    width: 125px;
+    height: 168px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    right: 0;
+    background-position: right;
+    top: 4rem;
+}
+	.page-id-784 .imgrightseccss {
+    background: url(http://brain-staging.brainstormtech.pro/wp-content/uploads/2023/06/Check_Mark_012-1.png);
+    width: 100px;
+    height: 123px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    right: 0;
+    background-position: right;
+    top: 7rem;
+}
+		.page-id-863 .imgrightcss {
+    background: url(http://brain-staging.brainstormtech.pro/wp-content/uploads/2023/06/Vector-4.png);
+    width: 125px;
+    height: 168px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    right: 0;
+    background-position: right;
+    top: 6rem;
+}
+	.page-id-863 .imgrightseccss {
+    background: url(http://brain-staging.brainstormtech.pro/wp-content/uploads/2023/06/Arrow_044.png);
+    width: 150px;
+    height: 123px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    right: 0;
+    background-position: right;
+    top: 8rem;
+}
+	.page-id-867 .imgrightcss {
+    background: url(http://brain-staging.brainstormtech.pro/wp-content/uploads/2023/06/Vector-6.png);
+    width: 125px;
+    height: 168px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    right: 0;
+    background-position: right;
+    top: 6rem;
+}
+	.page-id-867 .imgrightseccss {
+    background: url(http://brain-staging.brainstormtech.pro/wp-content/uploads/2023/06/Arrow_045-1.png);
+    width: 150px;
+    height: 123px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    right: 0;
+    background-position: right;
+    top: 8rem;
+}
+	.page-id-873 .imgrightcss {
+    background: url(http://brain-staging.brainstormtech.pro/wp-content/uploads/2023/06/Vector-9.png);
+    width: 130px;
+    height: 185px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    right: 0;
+    background-position: right;
+    top: 6rem;
+}
+.page-id-873 .imgrightseccss {
+    background: url(http://brain-staging.brainstormtech.pro/wp-content/uploads/2023/06/Star_003-1.png);
+    width: 78px;
+    height: 68px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    right: 37px;
+    background-position: right;
+    top: 8.5rem;
+}
+	.imgrightcss {
+    background: url(http://brain-staging.brainstormtech.pro/wp-content/uploads/2023/06/Vector.png);
+    width: 90px;
+    height: 190px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    right: 0;
+    background-position: right;
+    top: 2rem;
+}
+	.imgrightseccss {
+    background: url(http://brain-staging.brainstormtech.pro/wp-content/uploads/2023/06/Scribble_117-1.png);
+    width: 72px;
+    height: 150px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    right: 0;
+    background-position: right;
+    top: 6rem;
+}
+	/***** inner page mobile ***/
+.inner-services-text {
+    display: block;
+    grid-template-columns: 1fr;
+    gap: 40px;
+}
+	section.our-services.services.innerblock h1 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 98.52%;
+    letter-spacing: -0.05em;
+    text-transform: capitalize;
+    color: #000000;
+}
+	.our-services section.contact-section.section.contact.page-content h2{
+		font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 60px;
+line-height: 98.52%;
+letter-spacing: -0.065em;
+color: #000000;
+	}
+	.our-services-imgtitle {display:block; margin:40px 20px;}
+	.our-serv-imagetitleblock {
+    margin: 32px auto !important;
+    text-align: center;
+  /*  width: 88%;*/
+}
+	.our-serv-imagetitleblock:nth-child(2n) {margin-bottom:0;}
+	.our-servtitle h5 {
+		font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 98.52%;
+letter-spacing: -0.065em;
+color: #12110C;
+	}
+	.our-sercont p{
+		font-family: 'Inter';
+font-style: italic;
+font-weight: 600;
+font-size: 11px;
+line-height: 13px;
+text-align: right;
+letter-spacing: -0.03em;
+
+color: #C9C9C9;
+	}
+		/***** End inner page mobile ***/
+	
+	.our-service-btm-img{display:none;}
+	section.our-services.services h1 {
+		font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 65px;
+line-height: 98.52%;
+letter-spacing: -0.065em;
+color: #000000;
+	}
+	.our-services-text {
+    width: 100%;
+    margin-top: 30px;
+}
+	.our-catenamecss h5 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 140%;
+    letter-spacing: -0.065em;
+    text-transform: capitalize;
+    color: #000000;
+}
+	.our-cat-iconcss img {
+    width: 13px !important;
+}
+.our-cat-iconcss {
+    vertical-align: middle;
+    margin: 10px 12px 10px 0;
+}
+	.our-ser-cate-css {border-top:1px solid #eaeaea;}
+	.our-ser-cate-css:last-child {border-bottom:1px solid #eaeaea;}
+	.our-catenamecss { padding-left:1.8rem;     background-size: 14px;}
+	section.our-services.services .container-fluid {
+    padding-left: 25px;
+    padding-right: 25px;
+}
+}
+
+
+@media (min-width:761px) and (max-width:980px)
+{
+	.page-id-863 .our-serv-imagetitleblock:nth-child(3) {
+    margin-top:0rem;
+} 
+	.page-id-784 .inner-services-text, .our-services-imgtitle, .page-id-863 .inner-services-text, .page-id-876 .inner-services-text, .page-id-829 .inner-services-text, .page-id-853 .inner-services-text, .page-id-853 .inner-services-text.inrsrvnewcss, .page-id-859 .inner-services-text, .page-id-859 .inner-services-text.inrsrvnewcss {
+    display: grid;
+    grid-template-columns: 1fr;
+		
+}
+	.inner-content-blocks p {text-align:left !important;}
+	
+	.our-serv-imagetitleblock:nth-child(2n) {
+    margin-top: 60px !important;
+    margin-bottom: 60px !important;
+}
+.our-services-imgtitle	{
+	    column-gap: 0;
+    row-gap: 0;
+    margin: 0px 40px;
+	}
+	/***Tab sale force page***/
+	
+	section.our-services.services.saleforce h1 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 98.52%;
+    letter-spacing: -0.065em;
+    text-transform: capitalize;
+     text-align: center;
+}
+	.inner-content-blocks p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 160%;
+    letter-spacing: -0.01em;
+		text-align:center;
+   
+}
+	.mainservcss.saleforcecontcss .inner-content-blocks {
+    display: block;
+    width: 100%;
+    text-align: left;
+    margin: 0 auto;
+}
+	.imgpartnermaincss {
+    display: grid;
+    text-align: center;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    width: 100%;
+    margin: 96px auto -21px;
+    column-gap: 13px;
+}
+.saleforce-secblock-text h2 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 98.52%;
+    letter-spacing: -0.05em;
+   	margin-bottom:30px;
+}	
+	section.saleforcesection {padding:60px 0px;}
+	
+	.saleforce-secblock-text {
+    display: block;
+}
+	section.saleforce-servicesmain {
+    padding: 70px 0px;
+}
+	.salef-serv-hedcss h2 {
+    width: 100%;
+    margin-bottom: 40px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 98.52%;
+    letter-spacing: -0.05em;
+    
+}
+/*	.saleforc-servi-contcss, .btnbtnsaleforceser, .btnsaleforceser, .key_benefits_contentcss, .btnsaleforce.btnsenewcss {display:block;}*/
+	.btnsaleforce.btnsenewcss a.buttonlinkcss
+	
+	.salef-content-blocks p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 160%;
+    letter-spacing: -0.01em;
+    }
+	a.buttonlinkserseccss, a.buttonlinksercss {font-size:32px;}
+	.btn2colcss a {font-size:16px !important;}
+	.btnbtncolcss:nth-child(2){padding-top:8px;}
+/*	.btnbtncolcss, .btncolcss {
+    height: 76px;
+    vertical-align: middle;
+    padding-top: 18px;
+		margin-bottom:12px;
+}*/
+	section.contact-section.section.contact.page-content.myformhedcss h2 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 98.52%;
+    letter-spacing: -0.05em;
+		text-align:left;
+}
+	.section.contact-section {
+    padding-top: 14px;
+}
+	.myformhedcss p, .myformhedcss .social-links.social-links-mob {display:none !important;}
+	section.our-services.services.saleforce {background-image:none; padding-bottom;0;}
+/**End tab sale force page***/	
+	
+	
+	
+	
+	
+	section.our-services.services.innerblock h1{width:100%;}
+	.our-servtitle h5 {font-size:30px;}
+	.our-services-imgtitle {margin-top:50px;}
+.inner-content-blocks {
+    width: 100%;
+    float: none;
+    margin-right: 50px;
+}
+	.inner-services-text {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+}
+	
+	.page-id-873 .our-serv-imagetitleblock:nth-child(3) {
+    margin: 4rem auto 0;
+}
+	.page-id-784 .imgrightcss {
+    background: url(http://brain-staging.brainstormtech.pro/wp-content/uploads/2023/06/Vector-1.png);
+    width: 107px;
+    height: 156px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    right: 0;
+    background-position: right;
+    top: 6rem;
+}
+	.page-id-784 .imgrightseccss {
+    background: url(http://brain-staging.brainstormtech.pro/wp-content/uploads/2023/06/Check_Mark_012-1.png);
+    width: 156px;
+    height: 118px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    right: 0;
+    background-position: right;
+    top: 9rem;
+}
+	.page-id-863 .imgrightcss {
+    background: url(http://brain-staging.brainstormtech.pro/wp-content/uploads/2023/06/Vector-3.png);
+    width: 120px;
+    height: 227px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    right: 0;
+    background-position: right;
+    top: 4rem;
+}
+	.page-id-863 .imgrightseccss {
+    background: url(http://brain-staging.brainstormtech.pro/wp-content/uploads/2023/06/Arrow_044.png);
+    width: 225px;
+    height: 160px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    right: 0;
+    background-position: right;
+    top: 6rem;
+}
+	.page-id-867 .imgrightseccss {
+    background: url(http://brain-staging.brainstormtech.pro/wp-content/uploads/2023/06/Arrow_045.png);
+    width: 184px;
+    height: 160px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    right: 0;
+    background-position: right;
+    top: 7rem;
+}
+	.page-id-867 .imgrightcss {
+    background: url(http://brain-staging.brainstormtech.pro/wp-content/uploads/2023/06/Vector-5.png);
+    width: 200px;
+    height: 270px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    right: 0;
+    background-position: right;
+    top: 3rem;
+}
+}
