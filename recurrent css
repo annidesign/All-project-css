@@ -1,0 +1,73 @@
+/* 22-06-2023 new css*/
+
+.repeat_frmss input {
+    width: 420px;
+}
+button:hover, button:focus, [type=submit]:hover, [type=submit]:focus, [type=button]:hover, [type=button]:focus {
+    background-color: #cccccc !important;
+}
+.repeater-field-cnt-frm .wpcf7-form-control-wrap.Quantity__1 {
+    margin: 0 4px;
+}
+.CF-frm-field {
+    margin: 0 17px;
+}
+
+
+/* media screen start 22-06-2023 */
+@media screen and (min-width:200px) and (max-width:424px){
+/* 	.CF-frm-field input {
+    	width: 299.99px !important;
+	} */
+	.repeater-field-outer .repeater-field-cnt-frm .wpcf7-field-group,
+	.repeater-field-outer .repeater-field-cnt-frm p{
+    	display: block;
+	}
+}
+@media screen and (min-width:425px) and (max-width:960px){
+	.CF-frm-field input {
+    	width: 299.99px !important;
+	}
+	.cf-frmsaa input {
+    width: 273.99px !important;
+}
+	.repeater-field-outer .repeater-field-cnt-frm .wpcf7-field-group {
+    	display: block;
+	}
+	.repeater-field-outer .repeater-field-cnt-frm p{
+		display: flex;
+		justify-content: inherit !important;
+	}
+	.home_conts,
+	.home_contass,
+	.cntct_cta{
+   	 	display: flex !important;
+    	flex-wrap: wrap !important;
+	}
+	.Contact-form-radio-field {
+   	 	margin: 0 auto;
+   	 	width: 100% !important;
+   		display: contents;
+	}
+	.page-id-7 img.attachment-full.size-full {
+    	width: 200px !important;
+	}
+
+	.repeat_frmss input {
+    width: 255px !important;
+}
+	.page-id-7 span#buy-sell-option {
+		display: flex;
+	}
+	.page-id-7 .Contact-Form-Section .CF-frm-main {
+    	padding: 40px 0px ;
+	}
+	.repeater-field-cnt-frm .wpcf7-form-control-wrap.Quantity__1 {
+    margin: 0 4px !important;
+	}
+	.repeater-field-cnt-frm .wpcf7-field-group-add, .repeater-field-cnt-frm .wpcf7-field-group-remove {
+    margin: 10px 5px 0 5px !important;
+}
+}
+
+/* End of the media screen */
