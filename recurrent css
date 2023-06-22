@@ -13,6 +13,131 @@ button:hover, button:focus, [type=submit]:hover, [type=submit]:focus, [type=butt
     margin: 0 17px;
 }
 
+.accordss .elementor-accordion-item {
+    border-bottom: 1px dashed #222 !important;
+    margin: 15px 15px 24px;
+}
+.accordss .elementor-tab-title {
+    padding: 0 0 25px !important;
+}
+.accordss .elementor-tab-title.elementor-active {
+    padding: 0 0 25px !important;
+}
+.accordss .elementor-accordion-item:last-child {
+    border-bottom: none !important;
+}
+ .accordss .elementor-accordion-item:nth-child(1) span.elementor-accordion-icon-closed, .accordss .elementor-accordion-item:nth-child(1) span.elementor-accordion-icon-opened {
+    background: url(https://recurrent.baytechsoft.com/wp-content/uploads/2023/06/IMAGE-1.svg);
+    background-repeat: no-repeat;
+    background-position: -1px 8px;
+}
+ .accordss .elementor-accordion-item:nth-child(2) span.elementor-accordion-icon-closed, .accordss .elementor-accordion-item:nth-child(2) span.elementor-accordion-icon-opened {
+    background: url(https://recurrent.baytechsoft.com/wp-content/uploads/2023/06/IMAGE-2.svg);
+    background-repeat: no-repeat;
+    background-position: -1px 8px;
+}
+ .accordss .elementor-accordion-item:nth-child(3) span.elementor-accordion-icon-closed, .accordss .elementor-accordion-item:nth-child(3) span.elementor-accordion-icon-opened {
+    background: url(https://recurrent.baytechsoft.com/wp-content/uploads/2023/06/IMAGE-3.svg);
+    background-repeat: no-repeat;
+    background-position: 0px 8px;
+}
+
+ .accordss i.fas.fa-plus,  .accordss i.fas.fa-minus {
+    /* background: url(https://recurrent.baytechsoft.com/wp-content/uploads/2023/06/IMAGE-1.svg); */
+    /* width: 40px; */
+    height: 44px;
+    font-size: 0;
+}
+
+ .accordss .elementor-accordion-item .elementor-tab-title .elementor-accordion-icon.elementor-accordion-icon-left {width:60px;}
+
+
+
+
+.imgicncss figure.elementor-image-box-img {
+    background: #fff;
+    width: 50px;
+    height: 48px;
+    vertical-align: middle;
+    padding: 7px 4px;
+}
+.imgicncss h3.elementor-image-box-title {
+    height: 50px;
+    padding: 0 22px;
+}
+
+.Contact-form-small-heading {
+    max-width: 665px;
+    margin: 0 auto;
+    line-height: 30px;
+}
+
+.Contact-form-small-heading label {
+    line-height: 30px;
+}
+
+.CF-frm-field input {
+    border: 1px solid rgba(7, 25, 70, 0.8) !important;
+    border-radius: 4px !important;
+    height: 55px;
+    background: none;
+    text-align: center;
+}
+.Contact-form-file-field.CF-frm-field input {
+    height: auto !important;
+}
+.Contact-form-radio-field.CF-frm-field input {
+    border: none !important;
+    height: auto;
+}
+select.wpcf7-form-control.wpcf7-select {
+    background: none;
+    height: 53px;
+	 border: 1px solid rgba(7, 25, 70, 0.8) !important;
+    border-radius: 4px !important;
+}
+.Contact-form-message-field #your-message {
+	background: none;
+    border: 1px solid rgba(7, 25, 70, 0.8) !important;
+    border-radius: 4px !important;
+}
+.repeater-field-cnt-frm .wpcf7-field-group-add, .repeater-field-cnt-frm .wpcf7-field-group-remove {
+	margin: 10px 15px 0 15px;}
+
+[type=button]:hover {background:#ddd;}
+
+input#submit-button {
+    background: none;
+    border: 2px solid #0039CB !important;
+    color: #0039CB;
+    font-size: 16px;
+    font-weight: 700;
+    width: 180px;
+}
+
+@media (min-width:200px) and (max-width:760px)
+{
+	.Contact-form-formal-details, .Contact-form-option-file {
+    display: block;
+}
+	#buy-sell-option .wpcf7-list-item {
+    margin: 00 20px;
+}
+	.CF-frm-field {
+    margin: 0;
+}
+	.CF-frm-main {padding:40px 0px;}
+	.repeater-field-cnt-frm .wpcf7-form-control-wrap.product-type__1 {
+    margin: 0 5px;
+}
+	.repeater-field-cnt-frm .wpcf7-form-control-wrap {
+    margin: 0 5px 0 5px;
+}
+	.repeater-field-cnt-frm .wpcf7-field-group-add, .repeater-field-cnt-frm .wpcf7-field-group-remove {
+    margin: 10px 3px 0 3px;
+}
+}
+
 
 /* media screen start 22-06-2023 */
 @media screen and (min-width:200px) and (max-width:424px){
